@@ -1,0 +1,3 @@
+[submodule "words.rs"]
+	path = words.rs
+	url = git@github.com:andrewcsmith/words.rs.git
