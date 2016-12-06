@@ -1,3 +1,11 @@
+## Code
+
+The code for this project is broken into a few different modules, not all of which are currently in good shape for distribution.
+
+I: The Phoneme 
+II: The Letter - see words.rs submodule
+III: The Context
+
 ## Performance Note
 
 *How to Get There From Here* should be read by a single individual at conversational speaking volume and intonation, with optional amplification. 
